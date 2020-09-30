@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello Joana!
+          Hello Joana!<br />
+          I made it with feature branch
         </p>
       </header>
     </div>
